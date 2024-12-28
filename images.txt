@@ -1,2 +1,2 @@
 # sd webui
-kestr3l/stable-diffusion-webui:latest
+kestr3l/stable-diffusion-webui
